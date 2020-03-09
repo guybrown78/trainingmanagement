@@ -23,7 +23,8 @@
 						"bookings": [{
 							"bookingId":140,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":"Level 1"
 						}]
 						
 					},
@@ -34,7 +35,9 @@
 						"bookings": [{
 							"bookingId":130,
 							"provenIdentity":false,
-							"company":"Acme International Limited"
+							"company":"Acme International Limited",
+							"courseLevel":"Level 1"
+							
 						}]
 					},
 					{
@@ -44,7 +47,8 @@
 						"bookings": [{
 							"bookingId":120,
 							"provenIdentity":false,
-							"company":"Kolo Korp"
+							"company":"Kolo Korp",
+							"courseLevel":"Level 1"
 						}]
 					},
 					{
@@ -54,7 +58,8 @@
 						"bookings": [{
 							"bookingId":100,
 							"provenIdentity":false,
-							"company":"North Park Enterprises"
+							"company":"North Park Enterprises",
+							"courseLevel":"Level 2"
 						}]
 					},
 					{
@@ -64,7 +69,8 @@
 						"bookings": [{
 							"bookingId":150,
 							"provenIdentity":false,
-							"company":"self funder"
+							"company":"self funder",
+							"courseLevel":"Level 1"
 						}]
 					}
 				],
@@ -137,7 +143,8 @@
 						"bookings": [{
 							"bookingId":260,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":"Foundation"
 						}]
 						
 					},
@@ -148,7 +155,8 @@
 						"bookings": [{
 							"bookingId":270,
 							"provenIdentity":false,
-							"company":"Acme International Limited"
+							"company":"Acme International Limited",
+							"courseLevel":"Intimedate"
 						}]
 					},
 					{
@@ -158,7 +166,8 @@
 						"bookings": [{
 							"bookingId":280,
 							"provenIdentity":false,
-							"company":"Go Green Energy"
+							"company":"Go Green Energy",
+							"courseLevel":"Advanced"
 						}]
 						
 					},
@@ -169,7 +178,8 @@
 						"bookings": [{
 							"bookingId":290,
 							"provenIdentity":false,
-							"company":""
+							"company":"",
+							"courseLevel":""
 						}]
 					},
 					{
@@ -179,7 +189,8 @@
 						"bookings": [{
 							"bookingId":295,
 							"provenIdentity":false,
-							"company":null
+							"company":null,
+							"courseLevel":""
 						}]
 					},
 					{
@@ -189,7 +200,8 @@
 						"bookings": [{
 							"bookingId":200,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":"Foundation"
 						}]
 					},
 					{
@@ -199,7 +211,8 @@
 						"bookings": [{
 							"bookingId":210,
 							"provenIdentity":false,
-							"company":"A1 Welding"
+							"company":"A1 Welding",
+							"courseLevel":"Foundation"
 						}]
 					}
 				],
@@ -264,7 +277,8 @@
 						"bookings": [{
 							"bookingId":320,
 							"provenIdentity":false,
-							"company":"Self Funder"
+							"company":"Self Funder",
+							"courseLevel":"Level 1"
 						}]
 					},
 					{
@@ -274,7 +288,8 @@
 						"bookings": [{
 							"bookingId":330,
 							"provenIdentity":false,
-							"company":"Self-funded"
+							"company":"Self-funded",
+							"courseLevel":"Level 2"
 						}]
 						
 					},
@@ -285,7 +300,8 @@
 						"bookings": [{
 							"bookingId":340,
 							"provenIdentity":false,
-							"company":""
+							"company":"",
+							"courseLevel":"Level 3"
 						}]
 					},
 					{
@@ -295,7 +311,8 @@
 						"bookings": [{
 							"bookingId":350,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":""
 						}]
 					},
 					{
@@ -305,7 +322,8 @@
 						"bookings": [{
 							"bookingId":310,
 							"provenIdentity":false,
-							"company":"Self Funder"
+							"company":"Self Funder",
+							"courseLevel":"Level 1"
 						}]
 					}
 				],
@@ -392,7 +410,8 @@
 						"bookings": [{
 							"bookingId":460,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":"Level 1"
 						}]
 						
 					},
@@ -403,7 +422,8 @@
 						"bookings": [{
 							"bookingId":470,
 							"provenIdentity":false,
-							"company":"Acme International"
+							"company":"Acme International",
+							"courseLevel":"Level 1"
 						}]
 					},
 					{
@@ -413,7 +433,8 @@
 						"bookings": [{
 							"bookingId":480,
 							"provenIdentity":false,
-							"company":"Go Green Energy"
+							"company":"Go Green Energy",
+							"courseLevel":"Level 1"
 						}]
 						
 					}
@@ -457,7 +478,8 @@
 						"bookings": [{
 							"bookingId":690,
 							"provenIdentity":false,
-							"company":""
+							"company":"",
+							"courseLevel":"Level 1"
 						}]
 					},
 					{
@@ -467,7 +489,8 @@
 						"bookings": [{
 							"bookingId":600,
 							"provenIdentity":false,
-							"company":"wood"
+							"company":"wood",
+							"courseLevel":"Level 1"
 						}]
 					},
 					{
@@ -477,7 +500,8 @@
 						"bookings": [{
 							"bookingId":610,
 							"provenIdentity":false,
-							"company":"Self funding"
+							"company":"Self funding",
+							"courseLevel":"Level 1"
 						}]
 					}
 				],
