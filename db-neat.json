@@ -102,7 +102,7 @@
           {
             "day":3,
 						"registrationComplete":false,
-						"registeredDelegateIds":[
+						"registered":[
 							10,
 							40,
 							70
