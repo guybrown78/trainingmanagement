@@ -17,39 +17,73 @@
 				"count":5,
 				"delegates":[
 					{
-						"id":10,
-						"name":"Leanne Graham",
-						"number":102110,
-						"bookingId":240,
-						"provenIdentity":false,
-						"company":"wood"
+						"id": 10,
+						"number": 102010,
+						"name": "Leanne Graham",
+						"bookings": [{
+							"bookingId":140,
+							"provenIdentity":false,
+							"company":"wood"
+						}]
+						
+					},
+					{
+						"id": 20,
+						"number": 102020,
+						"name": "Ervin Howell",
+						"bookings": [{
+							"bookingId":130,
+							"provenIdentity":false,
+							"company":"Acme International Limited"
+						}]
+					},
+					{
+						"id": 40,
+						"number": 102040,
+						"name": "Patricia Lebsack",	
+						"bookings": [{
+							"bookingId":120,
+							"provenIdentity":false,
+							"company":"Kolo Korp"
+						}]
+					},
+					{
+						"id": 60,
+						"number": 102060,
+						"name": "Cherryl Morris",
+						"bookings": [{
+							"bookingId":100,
+							"provenIdentity":false,
+							"company":"North Park Enterprises"
+						}]
+					},
+					{
+						"id": 70,
+						"number": 102070,
+						"name": "Ben Smith",
+						"bookings": [{
+							"bookingId":150,
+							"provenIdentity":false,
+							"company":"self funder"
+						}]
 					}
 				],
-        "delegateIds":[
-          10,
-          20,
-          40,
-          60,
-          70
-        ],
         "attendances":[
           {
             "day":1,
 						"registrationComplete":false,
-						"registeredDelegateIds":[
+						"registered":[
 							10,
 							40,
 							60,
 							70
 						],
-            "attendees":[
-
-            ]
+            "attendees":[]
           },
           {
             "day":2,
 						"registrationComplete":false,
-						"registeredDelegateIds":[
+						"registered":[
 							10,
 							40,
 							60,
@@ -62,7 +96,7 @@
           {
             "day":3,
 						"registrationComplete":false,
-						"registeredDelegateIds":[
+						"registered":[
 							10,
 							40,
 							70
@@ -94,35 +128,106 @@
       },
       "registrationRule":"am-pm",
       "delegates":{
-        "count":7,
-        "delegateIds":[
-          10,
-          20,
-          30,
-          40,
-          50,
-          60,
-          70
-        ],
-        "registeredDelegateIds":[
-          10,
-          20,
-          30,
-          40,
-          50,
-          70
-        ],
+				"count":7,
+				"delegates":[
+					{
+						"id": 10,
+						"number": 102010,
+						"name": "Leanne Graham",
+						"bookings": [{
+							"bookingId":260,
+							"provenIdentity":false,
+							"company":"wood"
+						}]
+						
+					},
+					{
+						"id": 20,
+						"number": 102020,
+						"name": "Ervin Howell",
+						"bookings": [{
+							"bookingId":270,
+							"provenIdentity":false,
+							"company":"Acme International Limited"
+						}]
+					},
+					{
+						"id": 30,
+						"number": 102030,
+						"name": "Clementine Bauch",
+						"bookings": [{
+							"bookingId":280,
+							"provenIdentity":false,
+							"company":"Go Green Energy"
+						}]
+						
+					},
+					{
+						"id": 40,
+						"number": 102040,
+						"name": "Patricia Lebsack",	
+						"bookings": [{
+							"bookingId":290,
+							"provenIdentity":false,
+							"company":""
+						}]
+					},
+					{
+						"id": 50,
+						"number": 102050,
+						"name": "Chelsey Dietrich",
+						"bookings": [{
+							"bookingId":295,
+							"provenIdentity":false,
+							"company":null
+						}]
+					},
+					{
+						"id": 60,
+						"number": 102060,
+						"name": "Cherryl Morris",
+						"bookings": [{
+							"bookingId":200,
+							"provenIdentity":false,
+							"company":"wood"
+						}]
+					},
+					{
+						"id": 210,
+						"number": 102070,
+						"name": "Ben Smith",
+						"bookings": [{
+							"bookingId":150,
+							"provenIdentity":false,
+							"company":"A1 Welding"
+						}]
+					}
+				],
         "attendances":[
           {
             "day":1,
-            "registrationComplete":false,
+						"registrationComplete":false,
+						"registered":[
+							10,
+							20,
+							30,
+							40,
+							50,
+							70
+						],
             "attendees":[
 
             ]
           },
           {
             "day":2,
-            "registrationComplete":false,
+						"registrationComplete":false,
+						"registered":[
+							10,
+							30,
+							50,
+							70
+						],
             "attendees":[
 
             ]
