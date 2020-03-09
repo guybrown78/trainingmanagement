@@ -1,0 +1,301 @@
+{
+  "courses":[
+    {
+      "id":1,
+      "code":"CS_001",
+      "name":"Cold Water Survival",
+      "startDate":"2020-03-22T09:00:00.000Z",
+      "endDate":"2020-03-25T17:15:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":2,
+        "days":3,
+        "hours":null
+      },
+      "registrationRule":"am-pm",
+      "delegates":{
+				"count":5,
+				"delegates":[
+					{
+						"id":10,
+						"name":"Leanne Graham",
+						"number":102110,
+						"bookingId":240,
+						"provenIdentity":false,
+						"company":"wood"
+					}
+				],
+        "delegateIds":[
+          10,
+          20,
+          40,
+          60,
+          70
+        ],
+        "attendances":[
+          {
+            "day":1,
+						"registrationComplete":false,
+						"registeredDelegateIds":[
+							10,
+							40,
+							60,
+							70
+						],
+            "attendees":[
+
+            ]
+          },
+          {
+            "day":2,
+						"registrationComplete":false,
+						"registeredDelegateIds":[
+							10,
+							40,
+							60,
+							70
+						],
+            "attendees":[
+
+            ]
+          },
+          {
+            "day":3,
+						"registrationComplete":false,
+						"registeredDelegateIds":[
+							10,
+							40,
+							70
+						],
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Please proceed to the changing areas to get measurements taken for Cold Water Survival"
+      }
+    },
+    {
+      "id":2,
+      "code":"CS_020",
+      "name":"Optito Bosiet with CA-EBS",
+      "startDate":"2020-03-23T09:30:00.000Z",
+      "endDate":"2020-03-25T16:30:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":1,
+        "days":2,
+        "hours":null
+      },
+      "registrationRule":"am-pm",
+      "delegates":{
+        "count":7,
+        "delegateIds":[
+          10,
+          20,
+          30,
+          40,
+          50,
+          60,
+          70
+        ],
+        "registeredDelegateIds":[
+          10,
+          20,
+          30,
+          40,
+          50,
+          70
+        ],
+        "attendances":[
+          {
+            "day":1,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          },
+          {
+            "day":2,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Proceed to Cafe to be called for Optito Bosiet with CA-EBS"
+      }
+    },
+    {
+      "id":3,
+      "code":"CS_300",
+      "name":"Course Three",
+      "startDate":"2020-03-25T09:30:00.000Z",
+      "endDate":"2020-03-25T14:00:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":0,
+        "days":0.5,
+        "hours":4.5
+      },
+      "registrationRule":"am",
+      "delegates":{
+        "count":5,
+        "delegateIds":[
+          20,
+          30,
+          40,
+          60,
+          70
+        ],
+        "registeredDelegateIds":[
+          20,
+          30,
+          40
+        ],
+        "attendances":[
+          {
+            "day":1,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Please go thought to the cafe area through the double doors"
+      }
+    },
+    {
+      "id":4,
+      "code":"CS_444",
+      "name":"Course Four",
+      "startDate":"2020-03-24T08:45:00.000Z",
+      "endDate":"2020-03-24T18:00:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":0,
+        "days":1,
+        "hours":null
+      },
+      "registrationRule":"allday",
+      "delegates":{
+        "count":0,
+        "delegateIds":[
+
+        ],
+        "registeredDelegateIds":[
+
+        ],
+        "attendances":[
+          {
+            "day":1,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Please go thought to the cafe area through the double doors"
+      }
+    },
+    {
+      "id":5,
+      "code":"CS_504",
+      "name":"Course Five",
+      "startDate":"2020-03-24T08:45:00.000Z",
+      "endDate":"2020-03-24T18:00:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":0,
+        "days":1,
+        "hours":null
+      },
+      "registrationRule":"allday",
+      "delegates":{
+        "count":3,
+        "delegateIds":[
+          10,
+          20,
+          30
+        ],
+        "attendances":[
+          {
+            "day":1,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Please go thought to the cafe area through the double doors"
+      }
+    },
+    {
+      "id":6,
+      "code":"CS_666",
+      "name":"Course Six",
+      "startDate":"2020-03-25T13:00:00.000Z",
+      "endDate":"2020-03-25T17:00:00.000Z",
+      "state":"live",
+      "duration":{
+        "currentDay":0,
+        "days":0.5,
+        "hours":4
+      },
+      "registrationRule":"pm",
+      "delegates":{
+        "count":3,
+        "delegateIds":[
+          40,
+          60,
+          70
+        ],
+        "registeredDelegateIds":[
+          40,
+          60,
+          70
+        ],
+        "attendances":[
+          {
+            "day":1,
+            "registrationComplete":false,
+            "attendees":[
+
+            ]
+          }
+        ],
+        "feedback":[
+
+        ]
+      },
+      "location":{
+        "delegateInstructions":"Proceed to Cafe to be called for Course Six"
+      }
+    }
+	]
+}
